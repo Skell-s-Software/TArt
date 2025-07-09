@@ -10,3 +10,7 @@ Skell's TArt es un pequeño modulo que permite la implementación de aspectos es
 > Éste módulo es completamente compatible con windows, en caso de utilizarlo en Linux, deberá de instalar otra librería para poder utilizarlo.
 # ¿Cómo Utilizarlo?
 > La sintaxis busca ser lo más parecida posible tanto en JS como en Py, igualmente sigue sujeto a la sintaxís de su lenguaje en uso.
+# Funciones y Artes por defecto
+> Estos artes pre-hechos son utilizados para aplicaciones de terminal de Skell's Software.
+### Skell's - ADO - (logotipo de ADO)
+![Logotipo de Skell's ADO](skADOterminal.jpg)
